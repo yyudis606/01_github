@@ -10,7 +10,7 @@ body {
   margin: 0;
   background: #f2f6f3;
   color: #1c2b22;
-  font-family: "Poppins", "Segoe UI", Arial, sans-serif;
+  font-family: "Poppins", "Segoe UI", arial, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -118,7 +118,7 @@ p {
 }
 
 .card {
-  background: #ffffff;
+  background: #fff;
   border-radius: 16px;
   box-shadow: 0 4px 16px rgba(10, 30, 20, 0.08);
   padding: 22px;
@@ -229,7 +229,7 @@ p {
   width: 170px;
   height: 170px;
   border-radius: 50%;
-  background: radial-gradient(closest-side, #ffffff 0 82%, transparent 82.5% 100%), repeating-conic-gradient(rgba(10, 122, 61, 0.35) 0deg 1.2deg, transparent 1.2deg 30deg);
+  background: radial-gradient(closest-side, #fff 0 82%, transparent 82.5% 100%), repeating-conic-gradient(rgba(10, 122, 61, 0.35) 0deg 1.2deg, transparent 1.2deg 30deg);
   box-shadow: 0 4px 16px rgba(10, 30, 20, 0.08), inset 0 0 0 1px #e3ece6;
   border: 1px solid #e3ece6;
 }

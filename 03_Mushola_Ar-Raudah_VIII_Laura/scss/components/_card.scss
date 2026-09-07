@@ -11,6 +11,7 @@
 // Gaya kartu putih yang dipakai berulang oleh tiap section .card di index.html
 .card {
   @include m.card-surface;
+
   padding: 22px;
   margin-bottom: 22px;
   transition: box-shadow 0.25s ease, transform 0.25s ease;
